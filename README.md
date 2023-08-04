@@ -1,0 +1,9 @@
+# Number_plate_detection
+This project is a Python-based implementation of number plate detection for videos. 
+It utilizes computer vision techniques to identify and locate license plates in a video stream. 
+The implementation is based on OpenCV, a popular computer vision library in Python, and it uses Haar cascades for object detection. 
+The algorithm first detects potential license plate regions in the video frames and then applies image processing techniques to extract the license plate characters. 
+Finally, the extracted characters are recognized using optical character recognition (OCR).
+It can also be used for research in computer vision and machine learning.
+The code is well-documented and easy to use. It requires only a few modifications to work with different video sources. 
+The GitHub repository also includes sample videos and test scripts to help users get started.
